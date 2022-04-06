@@ -1,0 +1,159 @@
+#nav {
+
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-top: 50px;
+        margin-bottom: 50px;
+
+}
+
+#nav {
+
+        display: grid;
+        justify-content: space-evenly;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        background-color: lightgrey;
+
+}
+
+.encabezado {
+
+        display: grid;        
+        justify-content: space-around;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        background-color: pink;
+}
+
+.subtitulo {
+
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-top: 25px;
+        margin-bottom: 25px;
+        background-color: pink;
+        
+
+}
+
+.subtitulo1 {
+
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        background-color: pink;
+        
+
+}
+
+.descripcion {
+
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        background-color: lightgray;
+        
+
+}
+
+
+.tituloUltimosproyectos {
+
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        background-color: pink;
+        
+
+}
+
+.footer_index {
+
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        justify-content: space-evenly;
+       
+        
+
+}
+
+
+.subtituloNosotros_1 {
+
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        justify-content: space-evenly;
+        background-color: pink;
+       
+        
+
+}
+
+
+.presentacion {
+
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        justify-content: space-evenly;
+        background-color: pink;
+       
+        
+
+}
+
+.trabajando1 {
+
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        justify-content: space-evenly;
+       
+        
+
+}
+
+.trabajando2 {
+
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        justify-content: space-evenly;
+       
+        
+
+}
+
+.trabajando3 {
+
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        justify-content: space-evenly;
+       
+        
+
+}
